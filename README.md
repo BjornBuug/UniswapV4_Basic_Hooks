@@ -1,10 +1,6 @@
 # UniswapV4 Basic Hooks
 ### **Uniswap v4 Hooks 🦄**
 
-[`Use this Template`](https://github.com/uniswapfoundation/v4-template/generate)
-
----
-
 ## Check Forge Installation
 *Ensure that you have correctly installed Foundry (Forge) and that it's up to date. You can update Foundry by running:*
 
